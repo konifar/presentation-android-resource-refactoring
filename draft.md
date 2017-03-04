@@ -1,4 +1,4 @@
-# Android Resources Refactoring
+  # Android Resources Refactoring
 - DroidKaigi2017 3/9(Thu)
 - @konifar / Quipper
 - [konifar_image]
@@ -7,7 +7,7 @@
 <!--
 - Is it okay to start? Okay, let's get started!
 Thank you for coming this session.
-I'm Yusuke Konishi, my GitHub and Twitter name is @konifar which icon is Draemon as you can see.
+I'm Yusuke Konishi, my GitHub   and Twitter name is @konifar which icon is Draemon as you can see.
 I'm working at Quipper Ltd., and sometimes create private project.
 My recent project is this DroidKaigi official app.
 -->
@@ -19,10 +19,10 @@ My recent project is this DroidKaigi official app.
 - URL
 
 <!--
-This app is totally OSS on GitHub, and has many many contributors.
+This app is OSS on GitHub, and has many many contributors.
 Are there any contributors in this room? Please raise your hand!
 - Oh no, There is no body in this room, but I appreciate all contributors so much!
-- Thanks you so much! I wanna talk you after this session.
+- Thanks you so much! I wanna talk with you after this session.
 
 In fact, this app is the sample of this session.
 If you don't mind, please watch out the GitHub repository.
@@ -44,6 +44,15 @@ There are so many colors and lawless styles. It looked like nightmare.
 It was hard tasks. but after some try and errors, I found my best practice to manage resources.
 So today, I want to talk about the best practice and the practical way to refactor the resources.
 -->
+
+---
+
+# Problem1: Non unity design
+
+
+---
+
+# Problem2: Low dev performance
 
 ---
 
