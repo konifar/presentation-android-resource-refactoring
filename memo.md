@@ -91,3 +91,26 @@ So I think it's better to divide some files. Like this.
 - styleが揃ってきたら画面ごとにPRを出す
 
 - インスタバグの話
+
+
+
+
+
+
+
+
+
+
+---
+# How to proceed
+
+- Smaller Pull Request is better.
+- Change and fix bug soon.
+
+When you refactor resources, it’s better to keep in mind 2 things.
+One, smaller pull request is better.
+In my team, there are 7 Android engineers. Changing resources will make conflicts frequently.
+Not only to prevent conflicts, but also to reduce review costs.
+So smaller changes is better.
+Second, Change and fix bug soon. When I styles 
+---
